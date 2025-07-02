@@ -12,10 +12,13 @@ This program allows you to add, display, search, and count books in a virtual li
  🧹 Clear screen for better readability
 
 ## 📸 Preview
+![Screenshot 2025-07-02 085155](https://github.com/user-attachments/assets/4d3c2e79-d6d9-482a-8856-8adbfa39a874)
 
-![Screenshot 2025-06-30 152428](https://github.com/user-attachments/assets/1cb93ab8-0cc1-4e35-9aea-7f3f386b749d)
+![Screenshot 2025-07-02 085241](https://github.com/user-attachments/assets/04ea9a6c-2ec4-4eab-968c-a906e09e5aa7)
 
-![Screenshot 2025-06-30 152452](https://github.com/user-attachments/assets/91432dce-b941-4f03-a4a0-b6ade881e91d)
+![Screenshot 2025-07-02 085259](https://github.com/user-attachments/assets/4a182d76-e8be-4cd3-bf16-73748204948d)
+![Screenshot 2025-07-02 085345](https://github.com/user-attachments/assets/3e4e7247-f54a-464e-a906-319b8d3f9250)
+
 
 
 
